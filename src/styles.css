@@ -1,0 +1,22 @@
+.App {
+  font-family: "Raleway", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Raleway:wght@300&display=swap");
+:root {
+  --primary-color: #f87171;
+  --second-color: #fee2e2;
+}
+body {
+  background-image: url("https://image.freepik.com/free-photo/set-makeup-cosmetic-beauty-products-pink-background_23-2148113419.jpg");
+}
+input {
+  padding: 1rem;
+  width: 80%;
+  border-radius: 10px;
+  margin-left: 2rem;
+  margin-right: 5rem;
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+}
